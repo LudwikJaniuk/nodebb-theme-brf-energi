@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-brf-energi",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "Customizations for BRF energi",
   "main": "theme.less",
   "keywords": [
 
