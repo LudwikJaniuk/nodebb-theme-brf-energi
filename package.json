@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-brf-energi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Customizations for BRF energi",
   "main": "theme.less",
   "keywords": [
