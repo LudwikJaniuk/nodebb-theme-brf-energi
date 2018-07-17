@@ -50,7 +50,6 @@
 	<!-- ENDIF allowLocalLogin -->
 
 	<!-- IF alternate_logins -->
-	<p>trolololololol</p>
 	<div class="<!-- IF allowLocalLogin -->col-md-6<!-- ELSE -->col-md-12<!-- ENDIF allowLocalLogin -->">
 		<div class="alt-login-block">
 			<h4>[[login:alternative_logins]]</h4>

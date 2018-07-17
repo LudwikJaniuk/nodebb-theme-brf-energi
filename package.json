@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "description": "Customizations for BRF energi",
   "main": "theme.less",
-  "keywords": [
-
-  ],
-  "license": "MIT"
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^6.2.0"
+  }
 }
